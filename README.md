@@ -65,6 +65,7 @@ Si le joueur choisit le **bleu** alors il obtiendra 2 cellules car celles-ci son
 | B   | B   | B   |
 | --- | --- | --- |
 | j   | v   |  B  |
+
 <br><br><br>
 ***
 
